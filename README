@@ -1,0 +1,9 @@
+
+This is a project that consists of using a logistic regression model to predict whether a cancer is malignant or not based on certain measurements.
+
+Libraries used:
+- Python 3.12.3
+- Pandas
+- Seaborn
+- Matplotlib
+- sklearn
